@@ -9,7 +9,7 @@ export default class Menubar extends React.Component {
       <Navbar inverse fluid collapseOnSelect>
         <Navbar.Header>
           <Navbar.Brand>
-            <a href="/">Quersonal</a>
+            <a href="/">Learning-app</a>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>          
