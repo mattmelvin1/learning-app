@@ -1,0 +1,13 @@
+.Class .lander {
+    padding: 0;
+    text-align: center;
+}
+
+.Class .lander h1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
+.Class .lander p {
+    color: #999;
+}

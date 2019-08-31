@@ -1,0 +1,11 @@
+
+.StudentHomepageButton {
+    margin: 0 auto;
+    max-width: 320px;
+
+}
+.TeacherHomepageButton {
+    margin: 0 auto;
+    max-width: 320px;
+    padding-top: 10px;
+}
